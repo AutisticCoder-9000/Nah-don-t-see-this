@@ -31,3 +31,4 @@ Tables are a powerful feature in Markdown. A simple table in Markdown is written
 Col 1 | Col 2
 ----- | -----
 Mid   | Goofy
+
