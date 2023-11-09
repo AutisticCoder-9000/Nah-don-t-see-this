@@ -1,6 +1,6 @@
-<h1 align="center"> Lil nigga </h1>
-<h2 align="center"> Why you here? </h2>
-<h3 align="center"> Kys bozo </h3>
+<h1 align="center"> What does he even do ??? </h1>
+<h2 align="center"> Bro onto nothing </h2>
+<h3 align="center"> lil nigga thinks he is HIM </h3>
 <h4 align="center"> Goofy ahhh 🤓 </h4>
 <h5 align="center"> Aight </h5>
 <h6 align="center"> Whatever </h6> 
