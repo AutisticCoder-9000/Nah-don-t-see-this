@@ -22,4 +22,4 @@ Adding basic formattic to text is simple.
 
 <br>
 
-`Inline code`
+```Inline code```
