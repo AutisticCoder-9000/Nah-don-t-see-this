@@ -24,7 +24,7 @@ Adding basic formattic to text is simple.
 
 ```Inline code```
 
-#Tables
+# Tables
 
 Tables are a powerful feature in Markdown. A simple table in Markdown is written like this:
 
