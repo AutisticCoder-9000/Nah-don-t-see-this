@@ -20,4 +20,6 @@ Adding basic formattic to text is simple.
 ~~Strikethrough~~
 ==Highlight== 
 
-<br> 
+<br>
+
+`Inline code`
