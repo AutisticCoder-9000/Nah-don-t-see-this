@@ -1,5 +1,5 @@
 
-# Lil nigga
+<h1 align "center"> Lil nigga </h1>
 ## Why you here?
 ### Kys bozo
 #### Goofy ahhh 🤓
