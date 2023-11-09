@@ -23,3 +23,11 @@ Adding basic formattic to text is simple.
 <br>
 
 ```Inline code```
+
+#Tables
+
+Tables are a powerful feature in Markdown. A simple table in Markdown is written like this:
+
+Col 1 | Col 2
+----- | -----
+Mid   | Goofy
