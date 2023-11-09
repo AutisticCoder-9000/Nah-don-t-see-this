@@ -32,3 +32,12 @@ Col 1 | Col 2
 ----- | -----
 Mid   | Goofy
 
+<br>
+
+# Links
+
+Adding internal or external links in a Markdown file is really straightforward.
+
+[Click this if not gay](https://youtu.be/dQw4w9WgXcQ?si=nBxZ7MjhitHsEYzn)
+
+
